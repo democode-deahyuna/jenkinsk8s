@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 a18a94b4355a793e8d141b6b152ea2058bab39e5 ducanh <anh@example.com> 1655806738 +0000	commit (initial): hellu
-a18a94b4355a793e8d141b6b152ea2058bab39e5 e44142dab783b9e6f3e17d2c8491278b45edad59 ducanh <anh@example.com> 1655806810 +0000	commit: first commit
-e44142dab783b9e6f3e17d2c8491278b45edad59 e44142dab783b9e6f3e17d2c8491278b45edad59 ducanh <anh@example.com> 1655806810 +0000	Branch: renamed refs/heads/master to refs/heads/main
-e44142dab783b9e6f3e17d2c8491278b45edad59 87b49902847e6781ec43b44f23e1a3ea04dea725 ducanh <anh@example.com> 1655806837 +0000	commit: first commit
-87b49902847e6781ec43b44f23e1a3ea04dea725 87b49902847e6781ec43b44f23e1a3ea04dea725 ducanh <anh@example.com> 1655806837 +0000	Branch: renamed refs/heads/main to refs/heads/main
-87b49902847e6781ec43b44f23e1a3ea04dea725 6012612abc8f658b26fd806bd3e9109c01621c7f anh <anh@gmail.com> 1655807158 +0000	commit: first commit
-6012612abc8f658b26fd806bd3e9109c01621c7f 6012612abc8f658b26fd806bd3e9109c01621c7f anh <anh@gmail.com> 1655807158 +0000	Branch: renamed refs/heads/main to refs/heads/main
